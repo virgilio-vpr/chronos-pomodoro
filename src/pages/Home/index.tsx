@@ -7,11 +7,11 @@ export function Home() {
   return (
     <MainTemplate>
       <Container>
-        <CountDown />
+        <CountDown  />
       </Container>
 
       <Container>
-        <MainForm />
+        <MainForm  />
       </Container>
     </MainTemplate>
   );

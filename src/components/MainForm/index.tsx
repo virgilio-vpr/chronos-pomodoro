@@ -17,14 +17,14 @@ export function MainForm() {
       </div>
 
       <div className='formRow'>
-        <p>Loren ipsum dolor sit amet.</p>
+        <p>O próximo intervalo é de 25min</p>
       </div>
 
       <div className='formRow'>
         <Cycles />
       </div>
 
-      <div className='formRow'>
+      <div className='formRow'> 
         <DefaultButton icon={<PlayCircleIcon />} />
       </div>
     </form>
